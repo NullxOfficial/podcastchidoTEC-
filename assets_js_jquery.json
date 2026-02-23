@@ -1,0 +1,20 @@
+{
+  "name": "Sub4unlock.com",
+  "short_name": "Sub4unlock",
+  "start_url": "https://sub4unlock.com",
+  "display": "standalone",
+  "background_color": "#ffffff",
+  "theme_color": "#ffffff",
+  "icons": [
+    {
+      "src": "https://sub4unlock.com/assets/img/192.png",
+      "sizes": "192x192",
+      "type": "image/png"
+    },
+    {
+      "src": "https://sub4unlock.com/assets/img/512.png",
+      "sizes": "512x512",
+      "type": "image/png"
+    }
+  ]
+}
